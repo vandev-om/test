@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: darkkhaki;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  color: chartreuse;
+  font-size: 50px;
+}
